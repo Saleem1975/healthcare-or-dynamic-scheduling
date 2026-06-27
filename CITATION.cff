@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "A Data-Driven Approach for Predicting Remaining Intra-Surgical Time and Enhancing Operating Room Efficiency"
+message: "If you use this work, please cite the published paper."
+authors:
+  - family-names: Ramadan
+    given-names: Saleem Zeyad
+journal: "Journal of Industrial Engineering and Management"
+year: 2025
+doi: "10.3926/jiem.8543"
