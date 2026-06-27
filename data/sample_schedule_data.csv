@@ -1,0 +1,11 @@
+operation_number,actual_operation_time_min,traditional_waiting_time_min,cnn_waiting_time_min,traditional_or_idle_time_min,cnn_or_idle_time_min
+1,29,0,0,0,0
+2,40,0,1,11,0
+3,54,0,0,11,0
+4,44,3,3,0,0
+5,27,7,0,0,0
+6,57,0,1,6,0
+7,49,11,0,0,0
+8,43,20,4,0,0
+9,56,23,4,0,0
+10,39,39,0,0,0
